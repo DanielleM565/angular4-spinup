@@ -3,7 +3,7 @@ import {RouterModule, Routes} from "@angular/router";
 import {HomeComponent} from "./components/home-component";
 //import {BaconService} from "./services/bacon-service";
 
-export const allAppComponents = [BaconComponent, HomeComponent];
+//export const allAppComponents = [BaconComponent, HomeComponent];
 
 export const routes: Routes = [
 //	{path: "bacon", component: BaconComponent},
