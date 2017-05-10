@@ -14,5 +14,4 @@ export const routes: Routes = [
 
 export const routing = RouterModule.forRoot(routes);
 
-
 //took out everything having to do with bacon
