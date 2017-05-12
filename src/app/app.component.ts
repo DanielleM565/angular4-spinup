@@ -1,7 +1,7 @@
 import {Component} from "@angular/core";
 
 @Component({
-	selector: "ng4-example",
+	selector: "angular4-spinup",
 	//changed the url name for this project
 	templateUrl: "./templates/angular4-spinup-app.php"
 })
